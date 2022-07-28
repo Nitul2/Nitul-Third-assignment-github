@@ -1,0 +1,49 @@
+.font {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.back {
+    background: rgb(0, 0, 0, 0.7) url(../images/cover/cover-1.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-blend-mode: darken;
+
+
+
+
+
+
+
+}
+
+.back2 {
+    background: rgb(0, 0, 0, 0.7) url(../images/cover/cover-2.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-blend-mode: darken;
+
+
+
+
+
+
+
+}
+
+.back3 {
+    background: rgb(0, 0, 0, 0.7) url(../images/cover/cover-3.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-blend-mode: darken;
+
+
+
+
+
+
+
+}
